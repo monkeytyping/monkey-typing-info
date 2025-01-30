@@ -2633,7 +2633,7 @@ input, select, textarea {
 		/* Logo */
 
 			#logo h1 {
-				font-size: 2.25em;
+				font-size: 2.0em;
 				padding: 0.2em 0.275em;
 			}
 
@@ -2650,12 +2650,12 @@ input, select, textarea {
 			}
 
 				#banner h2 {
-					font-size: 2.0em;
+					font-size: 1.35em;
 					margin: 0.75em 0 0.5em 0;
 				}
 
 				#banner p {
-					font-size: 1.35em;
+					font-size: 1.25em;
 					line-height: 1.35em;
 					margin: 0;
 				}
