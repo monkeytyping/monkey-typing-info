@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Oleo+Script:400|Open+Sans:300,300italic,600,600italic,800");
+@import url("https://fonts.googleapis.com/css?family=Orbitron:400|Open+Sans:300,300italic,600,600italic,800");
 
 /*
 	Verti by HTML5 UP
@@ -142,7 +142,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2.25em;
+		font-size: 2.0em;
 		margin: 0 0 1.1em 0;
 		line-height: 1em;
 	}
@@ -1941,10 +1941,10 @@ input, select, textarea {
 			/*background: #fff;*/
 			color: #1d2d44;
 			border-radius: 6px;
-			font-family: 'Oleo Script', serif;
+			font-family: 'Orbitron', serif;
 			font-weight: 400;
 			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: 3.25em;
+			font-size: 2.25em;
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
@@ -2078,12 +2078,12 @@ input, select, textarea {
 	}
 
 		#banner h2 {
-			font-size: 3.5em;
+			font-size: 2.0em;
 			margin: 0.1em 0 0.35em 0;
 		}
 
 		#banner p {
-			font-size: 2.75em;
+			font-size: 1.35em;
 			line-height: 1.35em;
 			margin: 0;
 		}
@@ -2091,6 +2091,7 @@ input, select, textarea {
 		#banner .button {
 			width: 100%;
 			margin-bottom: 0.5em;
+			text-align: center;
 		}
 
 			#banner .button.icon:before {
